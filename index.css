@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.row{
+    margin: 10px;
+
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-around;
+    /* border: 2px solid black; */
+    width:  700px;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content:flex-end;
+    margin: 10px;
+    /* border: 2px solid black; */
+}
+
+/* .btn{
+    color: rgb(255, 55, 0);
+} */
